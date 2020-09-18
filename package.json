@@ -30,7 +30,7 @@
     },
     "homepage": "https://github.com/timo-cmd/RSA-crypto.js",
     "dependencies": {
-        "node-forge": "^0.8.5"
+        "node-forge": "^0.10.0"
     },
     "devDependencies": {
         "@babel/cli": "^7.5.5",
